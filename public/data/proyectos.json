@@ -1,0 +1,97 @@
+[
+    {
+      "id": 1,
+      "nombre": "Portafolio",
+      "descripcion": "Portafolio personal que muestra mis habilidades y proyectos.",
+      "desc_larga": "Este proyecto es un portafolio personal diseñado para mostrar mis habilidades, proyectos realizados y experiencia profesional. Está desarrollado con React y diseñado con técnicas modernas de CSS. Incluye animaciones interactivas, un diseño completamente responsivo y un enfoque en la accesibilidad.",
+      "imagen": "./img/imagen2.png"
+    },
+    {
+      "id": 2,
+      "nombre": "FP Superior",
+      "descripcion": "Proyectos realizados durante mi formación en desarrollo web.",
+      "desc_larga": "Durante mi formación en FP Superior, desarrollé múltiples proyectos enfocados en diseño web y desarrollo de aplicaciones. Aprendí a utilizar herramientas como React, Node.js y bases de datos, creando aplicaciones funcionales con buenas prácticas de programación.",
+      "imagen": "./img/ies.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Netflix",
+      "descripcion": "Recreación de la página web de Netflix utilizando JSON.",
+      "desc_larga": "Página similar a Netflix, donde se muestra una lista de series y películas utilizando datos en formato JSON.",
+      "imagen": "./img/servicio3.png",
+      "github": "https://github.com/MarcMunozServera02/IAW2024/tree/584a352ed5d931b51f5cebba0a8317dab3dbc68f/Netflix"
+    },
+    {
+      "id": 4,
+      "nombre": "Productos",
+      "descripcion": "Tienda en línea con lista de productos y precios.",
+      "desc_larga": "Tienda de productos sencilla creada con React, donde los usuarios pueden ver detalles y precios de productos.",
+      "imagen": "./img/servicio4.png",
+      "github": "https://github.com/MarcMunozServera02/IAW2024/tree/584a352ed5d931b51f5cebba0a8317dab3dbc68f/Productos"
+    },
+    {
+      "id": 5,
+      "nombre": "Blog",
+      "descripcion": "Aplicación de blog donde los usuarios pueden publicar contenido.",
+      "desc_larga": "Blog creado en React donde los usuarios pueden ver y crear publicaciones de manera dinámica.",
+      "imagen": "./img/servicio5.png",
+      "github": "https://github.com/MarcMunozServera02/IAW2024/tree/584a352ed5d931b51f5cebba0a8317dab3dbc68f/Blog"
+    },
+    {
+      "id": 6,
+      "nombre": "Instagram",
+      "descripcion": "Simulación de una red social para compartir imágenes.",
+      "desc_larga": "Simulación de una red social similar a Instagram, donde los usuarios pueden ver fotos y seguir a otros usuarios.",
+      "imagen": "./img/servicio6.png",
+      "github": "https://github.com/MarcMunozServera02/IAW2024/tree/584a352ed5d931b51f5cebba0a8317dab3dbc68f/Instagram"
+    },
+    {
+      "id": 7,
+      "nombre": "Tours",
+      "descripcion": "Aplicación para explorar destinos turísticos.",
+      "desc_larga": "Aplicación interactiva para explorar destinos turísticos con detalles y precios.",
+      "imagen": "./img/servicio7.png",
+      "github": "https://github.com/MarcMunozServera02/IAW2024/tree/584a352ed5d931b51f5cebba0a8317dab3dbc68f/Tours"
+    },
+    {
+      "id": 8,
+      "nombre": "React notes",
+      "descripcion": "Aplicación de toma de notas con opciones de edición.",
+      "desc_larga": "Aplicación de toma de notas simple, donde se pueden agregar, editar y eliminar notas.",
+      "imagen": "./img/servicio8.png",
+      "github": "https://github.com/MarcMunozServera02/IAW2024/tree/584a352ed5d931b51f5cebba0a8317dab3dbc68f/NotasApp"
+    },
+    {
+      "id": 9,
+      "nombre": "Calculadora de productos",
+      "descripcion": "Calculadora de productos con precios y cantidades.",
+      "desc_larga": "Calculadora de productos donde se pueden agregar diferentes productos con precios y cantidades.",
+      "imagen": "./img/servicio9.png",
+      "github": "https://github.com/MarcMunozServera02/IAW2024/tree/584a352ed5d931b51f5cebba0a8317dab3dbc68f/CalculadoraProductos"
+    },
+    {
+      "id": 10,
+      "nombre": "Calculadora",
+      "descripcion": "Calculadora para operaciones matemáticas simples.",
+      "desc_larga": "Calculadora básica en React para realizar operaciones matemáticas simples como suma, resta, multiplicación y división.",
+      "imagen": "./img/servicio10.png",
+      "github": "https://github.com/MarcMunozServera02/IAW2024/tree/584a352ed5d931b51f5cebba0a8317dab3dbc68f/Calculadora"
+    },
+    {
+      "id": 11,
+      "nombre": "Crypto",
+      "descripcion": "Aplicación para seguimiento de criptomonedas.",
+      "desc_larga": "Aplicación de seguimiento de criptomonedas en tiempo real utilizando datos de APIs.",
+      "imagen": "./img/servicio11.png",
+      "github": "https://github.com/MarcMunozServera02/IAW2024/tree/584a352ed5d931b51f5cebba0a8317dab3dbc68f/Cryptos"
+    },
+    {
+      "id": 12,
+      "nombre": "Modular Houses",
+      "descripcion": "Simulación de casas modulares personalizables.",
+      "desc_larga": "Simulación de casas modulares, donde los usuarios pueden elegir diferentes configuraciones para crear su propia casa.",
+      "imagen": "./img/servicio12.png",
+      "github": "https://github.com/MarcMunozServera02/IAW2024/tree/584a352ed5d931b51f5cebba0a8317dab3dbc68f/ModularHouses"
+    }
+  ]
+  

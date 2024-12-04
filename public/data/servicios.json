@@ -1,0 +1,33 @@
+
+    [
+        {
+        "id": 1,
+        "nombre": "Desarrollo Web",
+        "imagen": "./img/servicio1.png",
+        "descripcion": "Creo sitios web y aplicaciones personalizadas usando tecnologías modernas como React, garantizando una experiencia rápida, escalable y segura para el usuario."
+
+        },
+        {
+        "id": 2,
+        "nombre": "Diseño web",
+        "imagen": "./img/servicio2.png",
+        "descripcion": "Diseño páginas funcionales, optimizando la experiencia del usuario (UX) y asegurando que se adapten perfectamente a dispositivos móviles y pantallas de diferentes tamaños."
+        
+        },
+        {
+        "id": 3,
+        "nombre": "Desarrollo de Aplicaciones Web Interactivas",
+        "imagen": "./img/servicio1-1.png",
+        "descripcion": "Desarrollo aplicaciones web dinámicas y funcionales, utilizando tecnologías como React para crear soluciones interactivas y a medida según las necesidades del cliente."
+        
+        },
+        {
+        "id": 4,
+        "nombre": "Optimización de Rendimiento Web",
+        "imagen": "./img/servicios1-2.png",
+        "descripcion": "Mejoro la velocidad y el rendimiento de los sitios web, optimizando tiempos de carga y garantizando una experiencia fluida y eficiente para los usuarios."
+        
+        }
+
+    ]
+    
