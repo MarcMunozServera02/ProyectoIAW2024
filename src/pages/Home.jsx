@@ -53,10 +53,11 @@ export default function Home() {
         <div className="s-heading">
           <h1>Servicios</h1>
         </div>
-
+        
         <div className="service-cards-container">
           <div className="b-container">
             {servicios.map((servicio) => (
+              
               <div key={servicio.id} className="s-box">
                 <div className="s-b-img">
                   <div className="s-type">{servicio.nombre}</div>
@@ -64,13 +65,15 @@ export default function Home() {
                 </div>
                 <div className="s-b-text">
                   <p>
-                    <a href="#">{servicio.descripcion}</a>
+                    {servicio.descripcion}
                   </p>
                 </div>
               </div>
+              
             ))}
           </div>
         </div>
+        
       </section>
     </div>
   );

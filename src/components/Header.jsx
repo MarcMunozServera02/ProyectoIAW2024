@@ -37,9 +37,7 @@ function Header() {
         </ul>
 
         <div className="menu3">
-          <a href="">
-            <i className="fa-solid fa-bars"></i>
-          </a>
+            
           <div className="submenu">
             <Link to="/">Inicio</Link>
             <Link to="/proyectos">Proyectos</Link>
